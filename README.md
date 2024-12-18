@@ -8,17 +8,17 @@
 
   ### `🛠️ skills`
 
-| 📑 _`languages`_                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://skillicons.dev/icons?i=bun,svelte,ts,tailwind,rust,java,python" alt="languages" width="250"/> |
+  <h6>📑 <i><code>languages</code></i><br>
+    <img src="https://skillicons.dev/icons?i=bun,svelte,ts,tailwind,rust,java,python" alt="languages" width="250"/>
+  </h6>
 
-| 🚀 _`deployment`_                                                                                                      |
-|------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,vercel" alt="languages" width="140.5"/> |
+  <h6>🚀 <i><code>deployment</code></i><br>
+    <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,vercel" alt="deployment" width="140.5"/><br>
+  </h6>
 
-| 🖥️ _`software`_                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://skillicons.dev/icons?i=vscode,webstorm,ae,ps" alt="languages" width="140.5"/> |
+  <h6>🖥️ <i><code>software</code></i><br>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,ae,ps" alt="software" width="140.5"/>
+  </h6>
 
   ### `📊 stats`
   ![Top Languages](https://github-readme-stats-cyan-six-62.vercel.app/api/wakatime?username=towelcodes&layout=compact&theme=material-palenight&langs_count=8&display_format=percent&hide_title=true)
