@@ -26,7 +26,7 @@
   <hr>
   <img src="https://count.getloli.com/@:towelcodes?theme=3d-num" alt=":towelcodes" width="250"/>
   <br><br>
-  <img src="https://towel.codes/static/wooper/wooper1.gif" height="60"/>
+  <img src="https://towel.codes/static/wooper/wooper1.gif" width="100"/>
 
 </div>
 
