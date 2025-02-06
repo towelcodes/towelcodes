@@ -9,7 +9,7 @@
   ### `🛠️ skills`
 
   <h6>📑 <i><code>languages</code></i><br>
-    <img src="https://skillicons.dev/icons?i=bun,svelte,ts,tailwind,rust,java,python" alt="languages" width="250"/>
+    <img src="https://skillicons.dev/icons?i=bun,svelte,ts,tailwind,rust,kotlin,python" alt="languages" width="250"/>
   </h6>
 
   <h6>🚀 <i><code>deployment</code></i><br>
