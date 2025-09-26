@@ -13,7 +13,7 @@
   </h6>
 
   <h6>🚀 <i><code>deployment</code></i><br>
-    <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare,vercel" alt="deployment" width="140.5"/><br>
+    <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare" alt="deployment" width="140.5"/><br>
   </h6>
 
   <h6>🖥️ <i><code>software</code></i><br>
