@@ -13,11 +13,11 @@
   </h6>
 
   <h6>🚀 <i><code>deployment</code></i><br>
-    <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare" alt="deployment" width="140.5"/><br>
+    <img src="https://skillicons.dev/icons?i=docker,linux,cloudflare" alt="deployment" height="31"/><br>
   </h6>
 
   <h6>🖥️ <i><code>software</code></i><br>
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,ae,ps" alt="software" width="140.5"/>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,ae,ps" alt="software" height="31"/> <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstable-app-logo.9b5f959f.png&w=384&q=75" height="31"/>
   </h6>
 
   ### `📊 stats`
