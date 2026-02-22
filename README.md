@@ -17,10 +17,10 @@
   <h6>🖥️ <i><code>software</code></i><br>
     <img src="https://zed.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstable-app-logo.9b5f959f.png&w=384&q=75" height="31"/> <img src="https://skillicons.dev/icons?i=vscode,ae,ps" alt="software" height="31"/>
   </h6>
-
+<!--
   ### `📊 stats`
   ![Top Languages](https://github-readme-stats-cyan-six-62.vercel.app/api/wakatime?username=towelcodes&layout=compact&theme=material-palenight&langs_count=8&display_format=percent&hide_title=true)
-
+-->
   <hr>
   <img src="https://count.getloli.com/@:towelcodes?theme=3d-num" alt=":towelcodes" width="250"/>
   <br><br>
