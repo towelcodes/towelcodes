@@ -4,8 +4,6 @@
     <a href="https://towel.codes"><img src="https://github.com/towelcodes/towelcodes/blob/main/header.png?raw=true" alt="towel.codes" width="250"/></a>
   </h2>
 
-  ###### `16y/o "dev"`
-
   <h6>📑 <i><code>languages</code></i><br>
     <img src="https://skillicons.dev/icons?i=bun,svelte,ts,tailwind,rust,kotlin,python" alt="languages" width="250"/>
   </h6>
